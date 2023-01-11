@@ -1,17 +1,15 @@
 # dev-harbour
 
-
-<div style="text-align: justify">
-Harbour is an open-source software development toolkit for creating multi-platform GUI and console applications. It is compatible with the xBase programming language, which is the language behind popular database management systems such as dBase, FoxPro, and Clipper. Harbour provides a modernized version of the xBase language and includes additional features such as support for Unicode, 64-bit integers, and object-oriented programming. It also includes a built-in macro compiler, a cross-platform GUI library, and a set of standard libraries for tasks such as string manipulation, file I/O, and database access. Harbour can be used to develop applications for Windows, Linux, macOS, and other platforms, making it a versatile choice for software development projects.
-</div>
+<div style="text-align: justify">Harbour is an open-source software development toolkit for creating multi-platform GUI and console applications. It is compatible with the xBase programming language, which is the language behind popular database management systems such as dBase, FoxPro, and Clipper. Harbour provides a modernized version of the xBase language and includes additional features such as support for Unicode, 64-bit integers, and object-oriented programming. It also includes a built-in macro compiler, a cross-platform GUI library, and a set of standard libraries for tasks such as string manipulation, file I/O, and database access. Harbour can be used to develop applications for Windows, Linux, macOS, and other platforms, making it a versatile choice for software development projects.</div>
 
 ## Historical Review
 
 #### xBase
 <div style="text-align: justify">
 xBase is a programming language that was first developed in the early 1980s. It is the language behind popular database management systems such as dBase, FoxPro, and Clipper. The language was designed to be simple and easy to use, making it accessible to a wide range of programmers, including those with little or no prior programming experience.
+</div>
 
-
+<div style="text-align: justify">
 The first xBase language was dBase II, created by Wayne Ratliff in 1979 as a simple database program that ran on CP/M computers. In the following year, Ratliff created dBase III and it was a commercial success and widely used in the early 1980s. dBase III is the first widely adopted database management system. As a result, it was the first widely adopted xBase dialect. dBase III was a success and it was widely adopted by businesses and other organizations, becoming one of the most popular database management systems of the time.
 
 The popularity of dBase led to the creation of several other xBase-based languages, including FoxBase and FoxPro. FoxBase was a programming language and development environment for MS-DOS, developed by Fox Software. Later on, in 1989, Microsoft acquired Fox Software and released FoxPro for Windows. FoxPro was a more advanced version of FoxBase and was widely used in the early 1990s.
