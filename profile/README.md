@@ -9,6 +9,7 @@
 xBase is a programming language that was first developed in the early 1980s. It is the language behind popular database management systems such as dBase, FoxPro, and Clipper. The language was designed to be simple and easy to use, making it accessible to a wide range of programmers, including those with little or no prior programming experience.
 </div>
 
+
 <div style="text-align: justify">
 The first xBase language was dBase II, created by Wayne Ratliff in 1979 as a simple database program that ran on CP/M computers. In the following year, Ratliff created dBase III and it was a commercial success and widely used in the early 1980s. dBase III is the first widely adopted database management system. As a result, it was the first widely adopted xBase dialect. dBase III was a success and it was widely adopted by businesses and other organizations, becoming one of the most popular database management systems of the time.
 
