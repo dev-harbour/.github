@@ -74,7 +74,7 @@ Harbour also includes a cross-platform GUI library and a set of standard librari
 </p>
 
 <p align="justify">
-Over time, Harbour has been improved and extended, it has support for Windows, Linux, macOS, and other platforms, making it a versatile choice for software development projects. <b>In 2009 Harbour was substantially redesigned, mainly by Viktor Szakáts and Przemysław Czerpak.</b>
+Over time, Harbour has been improved and extended, it has support for Windows, Linux, macOS, and other platforms, making it a versatile choice for software development projects. In 2009 Harbour was substantially redesigned, mainly by Viktor Szakáts and Przemysław Czerpak.
 </p>
 
 <p align="justify">
