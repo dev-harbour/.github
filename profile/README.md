@@ -2,6 +2,8 @@
 dev-harbour
 </p></h1>
 
+<!--
+
 <p align="justify">
 Harbour is an open-source software development toolkit for creating multi-platform GUI and console applications. It is compatible with the xBase programming language, which is the language behind popular database management systems such as dBase, FoxPro, and Clipper. Harbour provides a modernized version of the xBase language and includes additional features such as support for Unicode, 64-bit integers, and object-oriented programming. It also includes a built-in macro compiler, a cross-platform GUI library, and a set of standard libraries for tasks such as string manipulation, file I/O, and database access. Harbour can be used to develop applications for Windows, Linux, macOS, and other platforms, making it a versatile choice for software development projects.
 </p>
@@ -80,3 +82,5 @@ Over time, Harbour has been improved and extended, it has support for Windows, L
 <p align="justify">
 In summary, Harbour is an open-source software development toolkit that was created in 1999 as a modern version of the xBase programming language, with a goal of being compatible with existing xBase code while also providing additional features such as support for Unicode, 64-bit integers, and object-oriented programming. It was first released in 2000 and quickly gained popularity among developers looking to work with xBase-style languages. It includes a built-in macro compiler, a cross-platform GUI library and a set of standard libraries, making it easier to use and versatile choice for software development projects. It supports several platforms including Windows, Linux, macOS, and others.
 </p>
+
+-->
